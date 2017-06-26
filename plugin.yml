@@ -1,9 +1,9 @@
 name: CTF
 main: ctf\Main
 version: 1.0.0
-api: [1.0.0]
+api: [3.0.0-ALPHA6]
 website: none
-author: 
+author: Zeao
 description: "Minigame based on EPICMC."
 commands: 
     ctfbs:
